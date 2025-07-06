@@ -12,7 +12,7 @@ I'm the 25'th old person. I have some expirience as manual QA engineer, I worked
 ### Work and study road
 1. BSU 2017-2022 years
 2. QA engineer 2022-2023 years
-3. Tech support L2 2024-now
+3. Tech support 2024-now
 
 ### Skills
 1. Python

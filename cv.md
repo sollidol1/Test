@@ -3,8 +3,8 @@
 
 ![img](path to image)
 
-__email: basarabkirill00@gmail.com__
-__discord: sollidol1 (@sollidol1)__
+* __email: basarabkirill00@gmail.com__
+* __discord: sollidol1 (@sollidol1)__
 
 text about me
 
